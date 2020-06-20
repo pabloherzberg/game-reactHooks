@@ -1,0 +1,8 @@
+.world {
+  position: relative;
+  margin: 10vh auto;
+  display: block;
+  background-color:rgb(79, 211, 79);
+  
+  height: 80vh;
+}

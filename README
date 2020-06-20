@@ -1,0 +1,14 @@
+  Este repositório foi uma tentativa de criação de jogo simples. 
+  O personágem deve desviar dos obstáculos num mapa 2D coletando 
+  itens espalhados aleatóriamente antes do seu adversário.
+
+  O propósito deste projeto foi compreender melhor o funcionamento 
+  dos hooks useContext e useEffect.
+
+  Como o suspeitado, a utilização de elementos HTML e suas propriedades
+  CSS requer muito do processamento do navegador. Para driblar tal 
+  problema utilizei 'memo' para não re-redenrizar elementos para cada evento.
+  
+  Apesar de não concluído, este projeto serviu para entendimento
+  mais aprofundado de como os elementos são renderizados na tela.
+  
